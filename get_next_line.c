@@ -6,7 +6,7 @@
 /*   By: ecymer <ecymer@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/05/24 17:19:02 by ecymer            #+#    #+#             */
-/*   Updated: 2024/05/25 13:24:11 by ecymer           ###   ########.fr       */
+/*   Updated: 2024/06/02 20:52:34 by ecymer           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -77,6 +77,6 @@ char	*get_next_line(int fd)
 
 //     fd = open("./text.txt", O_RDONLY);
 //     get_next_line(15);
-//     printf("DUPA: %s\n", get_next_line(15));
+//     printf("%s\n", get_next_line(15));
 //     return (0);
 // }
